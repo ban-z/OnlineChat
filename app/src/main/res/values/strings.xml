@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">OnlineChat</string>
+    <string name="navigation_drawer_header_title">欧阳丿</string>
+    <string name="navigation_drawer_header_content_description">用户头像</string>
+
+    <string name="nav_item_1">个人信息</string>
+    <string name="nav_item_2">配置网络</string>
+    <string name="nav_item_3">更换头像</string>
+    <!--<string name="nav_item_4">nav_item_4</string>
+    <string name="nav_item_5">nav_item_5</string>-->
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="mine_fragment_infromation">我是个人信息Fragment</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="channel_name">receive_msg</string>
+    <string name="channel_description">client receive the message</string>
+
+</resources>

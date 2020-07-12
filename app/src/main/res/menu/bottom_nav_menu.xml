@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/btm_nav_seesion"
+        android:title="消息"
+        android:icon="@drawable/session"/>
+
+    <item android:id="@+id/btm_nav_linkman"
+        android:title="联系人"
+        android:icon="@drawable/friend"/>
+
+    <item android:id="@+id/btm_nav_live"
+        android:title="广播"
+        android:icon="@drawable/broadcast"/>
+
+</menu>

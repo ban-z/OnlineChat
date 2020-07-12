@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E4E2E2</color>
+    <color name="colorPrimaryDark">#E4E2E2</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="btn_register_background">#FFFFFF</color>
+    <color name="colormargin">#CFCBCB</color>
+    <color name="colorcenterback">#ffffff</color>
+    <color name="btnpresstrue">#4CAF50</color>
+    <color name="btnpressfalse">#CE8BC34A</color>
+    <color name="colorBlack">#000000</color>
+</resources>
